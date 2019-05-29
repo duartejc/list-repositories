@@ -1,0 +1,1 @@
+Mox.defmock(GitHubFetcherBehaviourMock, for: RepoFetcher.Repos.GitHub.FetcherBehaviour)

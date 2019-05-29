@@ -1,0 +1,18 @@
+
+{
+  "presets": ["es2015", "react", "stage-0"],
+  "plugins": [
+    ["react-hot-loader/babel"],
+    ["transform-object-rest-spread", { "useBuiltIns": true }],
+    ["transform-runtime"],
+    ["transform-class-properties"],
+    ["transform-decorators-legacy"],
+    [
+      "dva-hmr", {
+        "container": "#root",
+        "quiet": false
+      }
+    ],
+    ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": true }]
+  ]
+ }
