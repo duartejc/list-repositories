@@ -4,6 +4,10 @@ Demo application built with Phoenix and React.
 
 It fetches repositories from GitHub API and shows featured repositories according choosen languages.
 
+## Live Demo
+
+https://stormy-forest-37007.herokuapp.com/#/
+
 ## Apps
 
 This application was created following the concept of "umbrella projects" of Elixir.
