@@ -1,4 +1,4 @@
-# Repolist
+# List Repositories
 
 Demo application built with Phoenix and React.
 
